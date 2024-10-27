@@ -1,5 +1,5 @@
 #!/bin/sh
-IF="enp5s0"
+IF="wlp2s0"
 
 if [ -z $1 ] 
 then
